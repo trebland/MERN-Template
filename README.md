@@ -18,11 +18,11 @@ npm run start
 ```
 
 ## Development Testing of Components
-In the **/client/** folder you may execute the following code:
+In the **/client** folder you may execute the following code:
 ```
 npm start
 ```
-In the **/server/** folder you may execute the following code:
+In the **/server** folder you may execute the following code:
 ```
 npm run dev
 ```
