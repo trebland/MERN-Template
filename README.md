@@ -17,5 +17,16 @@ In the server folder you need to run the following:
 npm run start
 ```
 
+## Development Testing of Components
+In the **/client/** folder you may execute the following code:
+```
+npm start
+```
+In the **/server/** folder you may execute the following code:
+```
+npm run dev
+```
+The previous commands will allow you to run the client or server separately.
+
 ## Afterwards
 Afterwards the project is free to be toyed with! The client is made with Node/React while the server is made with Node/Express. Enjoy!
