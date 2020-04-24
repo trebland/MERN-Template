@@ -18,4 +18,4 @@ npm run start
 ```
 
 ## Afterwards
-Afterwards the project is free to be toyed with, the client is made with Node/React while the server is made with Node/Express. Enjoy!
+Afterwards the project is free to be toyed with! The client is made with Node/React while the server is made with Node/Express. Enjoy!
