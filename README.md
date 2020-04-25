@@ -26,7 +26,7 @@ In the **/server** folder you may execute the following code:
 ```
 npm run dev
 ```
-The previous commands will allow you to run the client or server separately.
+The previous commands will allow you to run the client or the server in development mode.
 
 ## Afterwards
 Afterwards the project is free to be toyed with! The client is made with Node/React while the server is made with Node/Express. Enjoy!
